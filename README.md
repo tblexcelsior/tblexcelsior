@@ -27,19 +27,28 @@
 <p align="left">
   <img
     src="https://www.svgrepo.com/show/452091/python.svg"
-    alt="python" width="45" height="45"/>
+    alt="python" width="70" height="70"/>
   <img
     src="https://www.svgrepo.com/show/376358/c-plus-plus.svg"
-    alt="cpp" width="45" height="45"/>
+    alt="cpp" width="70" height="70"/>
   <img
     src="https://www.svgrepo.com/show/303206/javascript-logo.svg"
-    alt="js" width="45" height="45"/>
+    alt="js" width="70" height="70"/>
+  <img
+    src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.svg"
+    alt="sklearn" width="70" height="70"/>
+  <img
+    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+    alt="tf" width="70" height="70"/>
+  <img
+    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+    alt="opencv" width="70" height="70"/>
   <img
     src="https://www.svgrepo.com/show/376356/aws.svg"
-    alt="aws" width="45" height="45"/>
+    alt="aws" width="70" height="70"/>
   <img
     src="https://www.svgrepo.com/show/355190/reactjs.svg"
-    alt="reactjs" width="45" height="45"/>
+    alt="reactjs" width="70" height="70"/>
 </p>
 <!--
 **tblexcelsior/tblexcelsior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
