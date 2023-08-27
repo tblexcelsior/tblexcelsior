@@ -23,6 +23,18 @@
 <p>
 📫 You can also reach me via lequoctuan.fwork@gmail.com
 </p>
+<h2>
+  📖 Some specializations about Deep Learning that I learned
+</h2>
+<p align="left">
+  <img
+    src="specialization1.jpg"
+    alt="python" width="660" height="510"/>
+  <img
+    src="specialization2.jpg"
+    alt="cpp" width="660" height="510"/>
+
+</p>
 <h2>🚀 Some tools I have used and learned</h2>
 <p align="left">
   <img
